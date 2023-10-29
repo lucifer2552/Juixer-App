@@ -9,13 +9,8 @@ analysis but also with respect to a particular occasion or a season. Another sal
 
 ## 🤖 Team Members and Contribution
 
-- [Aman Bhatt](https://github.com/bhattcodes)
-- [Abhinandan Katoch](https://github.com/abhinandankatoch)
 - [Pallav Verma](https://github.com/Pallav14730)
 
-## 📃 Documentation
-
-- [Project Report](https://drive.google.com/file/d/1sS4R-IEqf5-bLxDFU8IlZYsXBqj83as9/view?usp=sharing)
 
 
 ## ⚙️ Tech Stack
